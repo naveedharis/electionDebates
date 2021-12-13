@@ -1,8 +1,8 @@
 # electionDebates #
 
-Haris Naveed 
-Data Wrangling
-Professor Benjamin Coleman 
+#### Haris Naveed #### 
+#### Data Wrangling ####
+#### Professor Benjamin Coleman ####
 
 This program takes a directory of csv files to read, modify, add, and store data
 into a MYSQL database. The resource that I used is from the Kaggle data website:
